@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react';
 import './Home.css';
 import amazonpic from '../assets/amazonclonepic.png';
 import CBpic from '../assets/akhil_aipic.png';
-import Linkhubpic from '../assets/Linkhubpic.png';
+import Linkhubpic from '../assets/linkhubpic.png';
 import MSpic from '../assets/meetingsummariserpic.png';
 import RPSpic from '../assets/rockpapersisscorpic.png';
 import SCpic from '../assets/skincarepic.png';
@@ -404,5 +404,6 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
     </div>
   );
 };
+
 
 export default Home;
