@@ -236,7 +236,7 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
           <div className="education-card">
             <h3>School Education</h3>
             <p className="institution">Sri Chaitanya Techno School</p>
-            <p className="duration">2010 - 2020</p>
+            <p className="duration">2019 - 2020</p>
           </div>
         </div>
       </section>
@@ -407,3 +407,4 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
 
 
 export default Home;
+
