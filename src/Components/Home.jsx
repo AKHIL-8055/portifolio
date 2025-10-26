@@ -343,8 +343,8 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
             <div className="skills-list">
               <span className="skill-item">Data Structures</span>
               <span className="skill-item">Algorithms</span>
-              <span className="skill-item">LeetCode (260+)</span>
-              <span className="skill-item">GeeksforGeeks (140+)</span>
+              <span className="skill-item">solved problems (500+)</span>
+              
             </div>
           </div>
         </div>
@@ -407,4 +407,5 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
 
 
 export default Home;
+
 
