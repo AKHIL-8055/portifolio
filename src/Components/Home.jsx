@@ -46,7 +46,7 @@ const projects = [
   {
     id: 2,
     title: "LinkHub - Class WhatsApp Group Finder",
-    description: "Open-source platform to help university students find and join class WhatsApp groups. In many universities, students attend different classes for different subjects, leading to communication gaps. LinkHub bridges this gap by providing a centralized platform where students can search, join, and interact with class-specific groups securely. It supports user authentication, group management, and privacy features.",
+    description: "A platform to help university students find and join class WhatsApp groups. In many universities, students attend different classes for different subjects, leading to communication gaps. LinkHub bridges this gap by providing a centralized platform where students can search, join, and interact with class-specific groups securely. It supports user authentication, group management, and privacy features.",
     technologies: ["React", "Spring Boot", "MySQL", "REST APIs"],
     githubUrl: "https://github.com/AKHIL-8055/LinkHub_public",
     image: Linkhubpic
@@ -190,7 +190,7 @@ const certificates = [
 I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a strong passion for full-stack development. I’ve built over 5 end-to-end web applications and solved 500+ DSA problems. I’m proficient in Java, JavaScript, SQL, and full-stack Java development. I specialize in building high-performance web solutions with intuitive frontends, robust backends, and secure, AI-integrated architectures.
           </p>
           <div className="hero-buttons">
-            <button className="btn primary" onClick={() => window.open('https://acrobat.adobe.com/id/urn:aaid:sc:AP:94e439c7-6912-484d-9d94-13bb39ede888', '_blank')}>
+            <button className="btn primary" onClick={() => window.open('https://acrobat.adobe.com/id/urn:aaid:sc:AP:60f7b18a-c8ad-4400-a1ae-ee58503d8add', '_blank')}>
               View Resume
             </button>
             <button className="btn secondary" onClick={() => scrollToSection(projectsRef)}>View Projects</button>
@@ -407,5 +407,6 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
 
 
 export default Home;
+
 
 
