@@ -190,7 +190,7 @@ const certificates = [
 I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a strong passion for full-stack development. I’ve built over 5 end-to-end web applications and solved 500+ DSA problems. I’m proficient in Java, JavaScript, SQL, and full-stack Java development. I specialize in building high-performance web solutions with intuitive frontends, robust backends, and secure, AI-integrated architectures.
           </p>
           <div className="hero-buttons">
-            <button className="btn primary" onClick={() => window.open('https://acrobat.adobe.com/id/urn:aaid:sc:AP:60f7b18a-c8ad-4400-a1ae-ee58503d8add', '_blank')}>
+            <button className="btn primary" onClick={() => window.open('https://acrobat.adobe.com/id/urn:aaid:sc:AP:f0d5367f-aeea-4656-8421-e2ace77e6060', '_blank')}>
               View Resume
             </button>
             <button className="btn secondary" onClick={() => scrollToSection(projectsRef)}>View Projects</button>
@@ -407,6 +407,7 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
 
 
 export default Home;
+
 
 
 
