@@ -125,7 +125,7 @@ const certificates = [
     id: 2,
     title: "JavaScript Certification",
     issuer: "Cisco Networking Academy",
-    date: "2022",
+    date: "2023",
     description: "Completed the JavaScript Essentials course covering fundamentals.",
     url: "https://acrobat.adobe.com/id/urn:aaid:sc:AP:de2364d1-7e63-4925-9f42-8a26e9997a30"
   },
@@ -407,6 +407,7 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
 
 
 export default Home;
+
 
 
 
