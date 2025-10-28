@@ -40,7 +40,7 @@ const projects = [
     title: "Job Portal for Unorganized Sector",
     description: "A comprehensive job portal designed to connect workers from the unorganized sector with potential job providers. This platform simplifies the process of finding employment for workers in sectors like cleaning, catering, delivery, and construction. Features include worker registration, job posting by employers, search and filter options, and secure contact between employers and workers.",
     technologies: ["React","Spring Boot", "MySQL", "REST APIs"],
-    githubUrl: "https://github.com/AKHIL-8055/Jobs-Portal-Backend-v1.0",
+    githubUrl: "https://github.com/AKHIL-8055/JobPortal_public",
     image: jobpic
   },
   {
@@ -407,6 +407,7 @@ I’m a final-year B.Tech CSE student at Vellore Institute of Technology with a 
 
 
 export default Home;
+
 
 
 
